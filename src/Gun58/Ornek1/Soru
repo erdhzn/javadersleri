@@ -1,0 +1,21 @@
+food
+1.Bölüm
+  içinde taste() bir interface yazınız.
+
+2.Bölüm de
+Aşağıdaki metodları olan classları yazınız.food dan implemente alarak
+
+AdanaKebab: marinade(), grill()
+Lahmacun: dough(), topping(), bake()
+Borsh: boil()
+Palov: fry(), boil()
+
+
+3. BOLUM
+technoCafe isimli class da kim main metoduda kullaniciya menuyu sunarak
+kullnici tamam secene kadar yemekk siparisini aliniz
+bu yemekleri bir ArrayList e ekleyiniz .
+
+4.Verilen siparialei mainde bir dongu ile TechnoKitchen classa
+tek tek gondererek hazirlatiniz ve ucre bilgidini olusturup
+yazdirirniz

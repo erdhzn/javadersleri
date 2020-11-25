@@ -1,0 +1,15 @@
+package Gun48.Extends2;
+
+public class HayvanatBahcesi {
+    public static void main(String[] args) {
+        Hayvan hayvan= new Hayvan("yok", 0,"Genel");
+        hayvan.konustu();
+
+        Kopek kopek1= new Kopek ("beyaz",10,"kopek");
+        kopek1.konustu();
+
+        Kus kus1= new Kus("gri", 1, "Kus");
+        kus1.konustu();
+    }
+
+}

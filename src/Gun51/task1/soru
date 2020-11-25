@@ -1,0 +1,14 @@
+bir okulun calisani ve ogrencilerinin ayit altina alindigi bir program yapimka isteniyor .
+1. Calisanlarin isim,adres, Okul , maas ve UyeTipi (enum: ogrenci, calisan ) bilgileri vardir.
+2.Ogrencilerin isim, ades, Okul,ucret,   ve UyeTipi (enum: ogrenci, calisan ) bilgileri vardir.
+3. Okulun ise ismi, maxOgrenciSayisi, Ogrencileri ve calisanlari varidir.
+
+
+sonuc
+ burada nesnelerin ortak ozelliklerini tejrara yazmamak icin , ortak ozelliklerini ayni olna ozeillikleri bor sinif yapi
+ digerlerinin buradan turetebiulir miyim .
+
+ inceleme sonucunda calisan ve ogencilde ortak ortak ozelliklerin fazla oldugu gozuktu.
+
+  o zaman kisi isminde bir sinifta bu ortak ozellikleri toplayip, butrada ortak metodlari yazip
+  daha sontra ogrenci ve calisan sinifin butadan tureterek az kodla yazabilirim.

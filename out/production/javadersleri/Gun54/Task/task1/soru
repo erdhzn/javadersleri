@@ -1,0 +1,5 @@
+ekteki tasarima gore gerekli modulleri yazininz.
+
+sonra main metodunda ,TeslaCar dan, ToyataPrius dan ve cityBus dan nesne uretiniiz /
+urettiginiz  nesneleri bur ArrayListe ekletip , daha sonra bu ArrayList i
+bir dongu ile classname lerini ekrana yazdiriniz .
